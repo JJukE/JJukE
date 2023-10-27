@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://jjuke-brain.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-fff5ee?style=plastic&logo=appveyor&logoColor=000000"/></a>
+<a href="https://jjuke-brain.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-fff5ee?style=plastic&logo=Tistory&logoColor=000000"/></a>
 
 ![JJukE's Github Stats](https://github-readme-stats.vercel.app/api?username=JJukE&show_icons=true&theme=radical)
 
